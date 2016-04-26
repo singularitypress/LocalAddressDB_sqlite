@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">MyAddress Jay Pandya</string>
+    <string name="action_settings">About</string>
+    <string name="clear">Delete</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="address">Address:</string>
+    <string name="province">Province:</string>
+    <string name="country">Country:</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="designations">
+        <item>Mr</item>
+        <item>Ms</item>
+        <item>Mrs</item>
+        <item>Dr</item>
+    </string-array>
+
+    <string name="no_persons"></string>
+    <string name="about">This assignment took far longer than it should have.</string>
+
+    <string-array name="provinces">
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>British Columbia</item>
+        <item>Alberta</item>
+        <item>Manitoba</item>
+        <item>Saskatchewan</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Prince Edward Island</item>
+        <item>Northwest Territories</item>
+        <item>Yukon</item>
+        <item>Nunavut</item>
+    </string-array>
+</resources>

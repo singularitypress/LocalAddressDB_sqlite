@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Au sujet de</string>
+    <string name="address">Adresse du Domicile:</string>
+    <string name="country">Pays:</string>
+    <string name="first_name">Prénom:</string>
+    <string name="last_name">Nom de famille:</string>
+    <string name="postal_code">Code Postal:</string>
+    <string name="province">Province:</string>
+    <string name="submit">Soumettre:</string>
+    <string name="clear">Nettoyer</string>
+    <string name="no_persons">Il n\'y a personne dans la liste.</string>
+</resources>
